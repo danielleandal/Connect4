@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- Set the background color -->
+<solid android:color="#D3D3D3" /> <!-- Light grey background -->
+
+<!-- Set the border radius to make it rounded -->
+<corners android:radius="40dp" /> <!-- Adjust this value for the desired roundness -->
+
+<!-- Optional stroke (border) -->
+
+    <!--
+<stroke
+    android:width="2dp"
+    android:color="#000000" />
+
+    -->
+</shape>
+
